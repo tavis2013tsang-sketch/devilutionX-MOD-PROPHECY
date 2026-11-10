@@ -393,7 +393,7 @@ void SelheroLoadSelect(size_t value)
 
 const char *SelheroGenerateName(HeroClass heroClass)
 {
-	static const char *const Names[6][10] = {
+	static const char *const Names[8][10] = {
 		{
 		    // Warrior
 		    "Aidan",
@@ -471,12 +471,25 @@ const char *SelheroGenerateName(HeroClass heroClass)
 		    "Qual-Kehk",
 		    "Ragnar",
 		    "Ulf",
-		},
-	};
+	    },
+	    {	
+	        // Occultist
+            "Morgana",
+            "Lilith",
+            "Selene",
+            "Hecate",
+            "Circe",
+            "Medea",
+            "Nyx",
+            "Baba",
+            "Yaga",
+            "Sybil",
+        },
+        };
 
 	const int iRand = rand() % 10;
 
-	return Names[static_cast<std::size_t>(heroClass) % 6][iRand];
+	return Names[static_cast<std::size_t>(heroClass) % 8][iRand];
 }
 
 } // namespace
