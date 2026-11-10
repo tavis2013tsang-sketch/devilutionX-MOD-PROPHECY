@@ -1,8 +1,8 @@
 Variable	Value
-skill	TrapDisarm
-spell	Null
-spellLevel	0
-item0	IDI_ROGUE
+skill	Null
+spell	TownPortal
+spellLevel	1
+item0	IDI_SORCERER
 item1	IDI_HEAL
 item2	IDI_HEAL
 item3	IDI_NONE
