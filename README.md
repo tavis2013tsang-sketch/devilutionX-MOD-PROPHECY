@@ -86,3 +86,4 @@ The source code in this repository is for non-commercial use only. If you use th
 Diablo® - Copyright © 1996 Blizzard Entertainment, Inc. All rights reserved. Diablo and Blizzard Entertainment are trademarks or registered trademarks of Blizzard Entertainment, Inc. in the U.S. and/or other countries.
 
 DevilutionX and any of its maintainers are in no way associated with or endorsed by Blizzard Entertainment®.
+mod
