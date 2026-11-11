@@ -2,7 +2,7 @@ Variable	Value
 skill	0
 spell	3
 spellLevel	1
-item0	IDI_SORCERER
+item0	IDI_SORCERER_DIABLO
 item1	IDI_HEAL
 item2	IDI_HEAL
 item3	IDI_NONE
