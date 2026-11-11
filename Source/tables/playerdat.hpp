@@ -24,10 +24,11 @@ enum class HeroClass : uint8_t {
 	Monk,
 	Bard,
 	Barbarian,
+	Occultist,
 
 	NUM_MAX_CLASSES = std::numeric_limits<uint8_t>::max(),
 
-	LAST = Barbarian,
+	LAST = Occultist,
 };
 
 enum class PlayerClassFlag : uint8_t {
