@@ -5282,6 +5282,10 @@ msgstr "吟游​诗人"
 msgid "Barbarian"
 msgstr "野​蛮​人"
 
+#: Source/translation_dummy.cpp:
+msgid "Occultist"
+msgstr "秘术师"
+
 #: Source/translation_dummy.cpp:17
 msgctxt "monster"
 msgid "Zombie"
