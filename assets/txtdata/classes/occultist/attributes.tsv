@@ -1,5 +1,5 @@
-Attribute		Value
-classFlags		
+Attribute	Value
+classFlags	
 baseStr	10
 baseMag	25
 baseDex	25
@@ -20,9 +20,9 @@ itmMana	1.5
 manaCost	0.75
 itmRestoreLife	1.5
 itmRestoreMana	1.5
-splRestoreLife	1.5
-splRestoreMana	1.5
-healOtherRestoreLife	1.5
-baseMagicToHit	50
+splRestoreLife	2
+splRestoreMana	5
+healOtherRestoreLife	3
+baseMagicToHit	75
 baseMeleeToHit	50
 baseRangedToHit	50
