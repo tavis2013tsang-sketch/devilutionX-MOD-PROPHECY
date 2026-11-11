@@ -2,7 +2,7 @@ Variable	Value
 skill	StaffRecharge
 spell	TownPortal
 spellLevel	1
-item0	IDI_SORCERER_DIABLO
+item0	IDI_SORCER
 item1	IDI_HEAL
 item2	IDI_HEAL
 item3	IDI_NONE
