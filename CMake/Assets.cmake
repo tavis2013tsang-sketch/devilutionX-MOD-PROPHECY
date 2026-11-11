@@ -201,6 +201,11 @@ set(devilutionx_assets
   txtdata/classes/warrior/sounds.tsv
   txtdata/classes/warrior/sprites.tsv
   txtdata/classes/warrior/starting_loadout.tsv
+  txtdata/classes/occultist/animations.tsv
+  txtdata/classes/occultist/attributes.tsv
+  txtdata/classes/occultist/sounds.tsv
+  txtdata/classes/occultist/sprites.tsv
+  txtdata/classes/occultist/starting_loadout.tsv
   txtdata/classes/classdat.tsv
   txtdata/items/item_prefixes.tsv
   txtdata/items/item_suffixes.tsv
