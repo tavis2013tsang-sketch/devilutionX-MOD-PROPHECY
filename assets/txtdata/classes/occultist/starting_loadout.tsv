@@ -1,7 +1,7 @@
 Variable	Value
-skill	Null
-spell	Null
-spellLevel	Null
+skill	0
+spell	3
+spellLevel	1
 item0	IDI_SORCERER
 item1	IDI_HEAL
 item2	IDI_HEAL
