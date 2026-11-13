@@ -170,6 +170,7 @@ set(devilutionx_assets
   plrgfx/warrior/whu/whufm.trn
   plrgfx/warrior/whu/whulm.trn
   plrgfx/warrior/whu/whuqm.trn
+  plrgfx/occultistArma.trn
   txtdata/Experience.tsv
   txtdata/classes/barbarian/animations.tsv
   txtdata/classes/barbarian/attributes.tsv
