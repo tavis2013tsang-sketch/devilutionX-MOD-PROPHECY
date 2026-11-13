@@ -10,9 +10,9 @@ maxDex	95
 maxVit	75
 blockBonus	10
 adjLife	14
-adjMana	24
+adjMana	74
 lvlLife	1
-lvlMana	1.5
+lvlMana	2
 chrLife	1
 chrMana	1
 itmLife	1.5
