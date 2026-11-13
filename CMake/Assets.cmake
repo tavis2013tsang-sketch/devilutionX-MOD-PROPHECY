@@ -227,7 +227,7 @@ set(devilutionx_assets
   txtdata/text/textdat.tsv
   txtdata/towners/quest_dialog.tsv
   txtdata/towners/towners.tsv
-  assets/music/dtowne.mp3
+  music/dtowne.mp3
   ui_art/diablo.pal
   ui_art/creditsw.clx
   ui_art/dvl_but_sml.clx
