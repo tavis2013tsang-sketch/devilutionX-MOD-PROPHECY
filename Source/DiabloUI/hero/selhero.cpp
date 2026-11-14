@@ -485,6 +485,19 @@ const char *SelheroGenerateName(HeroClass heroClass)
             "Yaga",
             "Sybil",
         },
+		{	
+	        // WitchDocter
+            "Monkey",
+            "Lilith",
+            "Selene",
+            "Heisacat",
+            "Circe",
+            "Medea",
+            "Nyx",
+            "Baba",
+            "gaga",
+            "Sabil",
+        },
         };
 
 	const int iRand = rand() % 10;
