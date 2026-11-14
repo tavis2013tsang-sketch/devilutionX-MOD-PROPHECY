@@ -1,8 +1,8 @@
 Variable	Value
 skill	ItemRepair
 spell	StoneCurse
-spellLevel	2
-item0	IDI_BARDSWORD
+spellLevel	1
+item0	IDI_WARRIOR
 item1	IDI_MANA
 item2	IDI_HEAL
 item3	IDI_NONE
