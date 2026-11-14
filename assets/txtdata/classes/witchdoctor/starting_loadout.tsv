@@ -1,8 +1,8 @@
 Variable	Value
 skill	ItemRepair
-spell	Etherealize
+spell	StoneCurse
 spellLevel	2
-item0	IDI_BARDDAGGER
+item0	IDI_DDAGGER
 item1	IDI_MANA
 item2	IDI_HEAL
 item3	IDI_NONE
