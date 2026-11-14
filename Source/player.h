@@ -413,6 +413,7 @@ public:
 		case HeroClass::Rogue:
 		case HeroClass::Sorcerer:
 		case HeroClass::Occultist:
+		case HeroClass::WitchDoter:
 			return false;
 		case HeroClass::Monk:
 			return isEquipped(ItemType::Staff);
