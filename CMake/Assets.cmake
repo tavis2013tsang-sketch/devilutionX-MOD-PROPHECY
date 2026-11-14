@@ -210,6 +210,11 @@ set(devilutionx_assets
   txtdata/classes/occultist/sounds.tsv
   txtdata/classes/occultist/sprites.tsv
   txtdata/classes/occultist/starting_loadout.tsv
+  txtdata/classes/witchdoctor/animations.tsv
+  txtdata/classes/witchdoctor/attributes.tsv
+  txtdata/classes/witchdoctor/sounds.tsv
+  txtdata/classes/witchdoctor/sprites.tsv
+  txtdata/classes/witchdoctor/starting_loadout.tsv
   txtdata/classes/classdat.tsv
   txtdata/items/item_prefixes.tsv
   txtdata/items/item_suffixes.tsv
