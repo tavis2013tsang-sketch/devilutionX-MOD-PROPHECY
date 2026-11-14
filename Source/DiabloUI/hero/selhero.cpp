@@ -486,7 +486,7 @@ const char *SelheroGenerateName(HeroClass heroClass)
             "Sybil",
         },
 		{	
-	        // WitchDocter
+	        // WitchDoctor
             "Monkey",
             "Lilith",
             "Selene",
