@@ -5286,6 +5286,10 @@ msgstr "野​蛮​人"
 msgid "Occultist"
 msgstr "秘术师"
 
+#: Source/translation_dummy.cpp:
+msgid "WitchDoctor"
+msgstr "巫医"
+
 #: Source/translation_dummy.cpp:17
 msgctxt "monster"
 msgid "Zombie"
